@@ -5,6 +5,10 @@
 
 **[Abstract]** COVID-19 is a pandemic that has once outbroken worldwide. Such a pandemic significantly effected Nova Scotians' Health and cast a series of social impacts in our Healthcare Domain. This project would use the Auto-Regressive (AR) Model and the Auto-Regressive Integrated Moving Average (ARIMA) to predict the pandemic in Nova Scotia from June 2023 to August 2023, based on the data provided by <a>https://health-infobase.canada.ca/covid-19/</a>.
 
+Results showed that the ARIMA tends to better predict the pandemic when there's no significant outbreak. However, the AR and ARIMA tend to be lagging while performing such a prediction. To alleviate such a problem, **more factors should be taken into consideration instead of just considering the chorographical variation of data itself.**
+
+Based on this model, the situation for the "incoming" month (from June to August) is generally stable and with no significant outbreak, which complies with the real local situation.
+
 * *Date Created*: 30 August 2023
 * *Last Modification Date*: 31 September 2023
 
